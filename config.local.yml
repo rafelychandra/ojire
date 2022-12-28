@@ -1,0 +1,18 @@
+app:
+  env: "local"
+  name: "go-chankey"
+  port: "1111"
+  host: "localhost"
+database:
+  dbName: "ojire"
+  host: "localhost"
+  password: ""
+  port: 5432
+  schema: "public"
+  user: ""
+  debug: false
+  setMaxIdleCons: 5
+  setMaxOpenCons: 10
+  setConMaxIdleTime: 30
+  setConMaxLifeTime: 60
+secretKey: "ojire"
