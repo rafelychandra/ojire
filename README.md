@@ -5,4 +5,4 @@ How to step
 4. type go build ojire
 5. type ./ojire --http=true
 
-![alt text](erd.png)
+![alt text](./erd.jpg)
